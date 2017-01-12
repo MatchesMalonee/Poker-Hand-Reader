@@ -4,7 +4,7 @@
 #MAINTAINING, UPDATING AND UPGRADING IT GOING TO BE A NIGHTMARE.
 
 #Suits - D, C, S, H
-
+#http://stackoverflow.com/questions/538551/handling-very-large-numbers-in-python
 #Defining the 'card' class
 class card:
 
