@@ -1,4 +1,4 @@
-#! python 3
+#!/usr/local/bin/python3
 
 #Defining the 'card' class
 class card:
